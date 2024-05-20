@@ -1,0 +1,5 @@
+# tools 工具配置文件
+wire:
+  # 要排除的目录
+  exclude:
+    - "testdata/**"
